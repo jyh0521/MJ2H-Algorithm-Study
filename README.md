@@ -13,6 +13,11 @@
 	</tr>
 </table>
 
+## 커밋 규칙
+[영어대문자] 한글
+
+ex) [REMOVE] 필요없는 파일 삭제
+
 ## 문제 목록
 ### 백준
 [[5052] 전화번호 목록](https://www.acmicpc.net/problem/5052)
