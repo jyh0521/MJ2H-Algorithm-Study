@@ -20,8 +20,9 @@ ex) [REMOVE] 필요없는 파일 삭제
 
 ## 문제 목록
 ### 백준
-[[5052] 전화번호 목록](https://www.acmicpc.net/problem/5052)
+[[5052] 전화번호 목록](https://www.acmicpc.net/problem/5052)   
 [[14503] 로봇 청소기](https://www.acmicpc.net/problem/14503)
+
 ---
 
 ### 프로그래머스
