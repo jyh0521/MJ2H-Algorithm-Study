@@ -18,12 +18,13 @@
 
 ex) [REMOVE] 필요없는 파일 삭제
 
-## 문제 목록
-### 백준
+## 문제 목록   
+### 백준   
 [[5052] 전화번호 목록](https://www.acmicpc.net/problem/5052)   
 [[14503] 로봇 청소기](https://www.acmicpc.net/problem/14503)   
 [[1744] 수 묶기](https://www.acmicpc.net/problem/1744)   
 [[17244] 아맞다우산](https://www.acmicpc.net/problem/17244)   
+
 ---
 
 ### 프로그래머스
