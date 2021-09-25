@@ -23,7 +23,9 @@ ex) [REMOVE] 필요없는 파일 삭제
 [[5052] 전화번호 목록](https://www.acmicpc.net/problem/5052)   
 [[14503] 로봇 청소기](https://www.acmicpc.net/problem/14503)   
 [[1744] 수 묶기](https://www.acmicpc.net/problem/1744)   
-[[17244] 아맞다우산](https://www.acmicpc.net/problem/17244)   
+[[17244] 아맞다우산](https://www.acmicpc.net/problem/17244)    
+[[21610] 마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)   
+[[16954] 움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)   
 
 ---
 
