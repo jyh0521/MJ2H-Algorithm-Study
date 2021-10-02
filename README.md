@@ -26,8 +26,10 @@ ex) [REMOVE] 필요없는 파일 삭제
 [[17244] 아맞다우산](https://www.acmicpc.net/problem/17244)    
 [[21610] 마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)   
 [[16954] 움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)   
-[[21611] 마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)   
-[[16929] Two Dots](https://www.acmicpc.net/problem/16929)
+[[21611] 마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)    
+[[16929] Two Dots](https://www.acmicpc.net/problem/16929)   
+[[2206] 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)   
+[[3055] 탈출](https://www.acmicpc.net/problem/3055)    
 
 ---
 
