@@ -6,10 +6,12 @@
 	<th style='width:33.3%; text-align:center'>민수빈</th>
 	<th style='width:33.3%; text-align:center'>전용후</th>
     	<th style='width:33.3%; text-align:center'>한찬호</th>
+	<th style='width:33.3%; text-align:center'>황정빈</th>
 	<tr>
 	    <td><a href='https://github.com/binimini'>binimini</a></td>
 	    <td><a href='https://github.com/jyh0521'>jyh0521</a></td>
             <td><a href='https://github.com/ChanHoHan'>chanhohan</a></td>
+	    <td><a href='https://github.com/jeongbbn'>jeongbbn</a></td>
 	</tr>
 </table>
 
