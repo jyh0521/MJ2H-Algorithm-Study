@@ -66,7 +66,6 @@ int main() {
 
 	for (int i = 0; i < N; i++)
 		cin >> MAP[i];
-	
 	bfs(0, 0);
 
 	if (ans == 0) ans = -1;
