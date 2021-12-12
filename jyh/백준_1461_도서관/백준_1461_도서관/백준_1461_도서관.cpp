@@ -50,29 +50,6 @@ int main() {
 		else
 			result2 += 2 * v2[i];
 	}
-
-	//if (v1[v1.size() - 1] > v2[v2.size() - 1]) { // -쪽 절대값이 더 큰 경우
-	//	for (int i = v2.size() - 1; i >= 0; i -= m) {
-	//		result1 += 2 * v2[i];
-	//	}
-	//	for (int i = v1.size() - 1; i >= 0; i -= m) {
-	//		if (i == v1.size() - 1)
-	//			result1 += v1[i];
-	//		else
-	//			result1 += 2 * v1[i];
-	//	}
-	//}
-	//else { // +쪽 절대값이 더 큰 경우
-	//	for (int i = v1.size() - 1; i >= 0; i -= m) {
-	//		result2 += 2 * v1[i];
-	//	}
-	//	for (int i = v2.size() - 1; i >= 0; i -= m) {
-	//		if (i == v2.size() - 1)
-	//			result2 += v2[i];
-	//		else
-	//			result2 += 2 * v2[i];
-	//	}
-	//}
 	
 	cout << (result1 < result2 ? result1 : result2) << endl;
 
